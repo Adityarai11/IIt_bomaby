@@ -214,4 +214,3 @@ const bigFishData = [
 new AnimalTable('table-1', 'table-1', bigCatsData, ['name', 'size', 'location']);
 new AnimalTable('table-2', 'table-2', dogsData, ['name', 'location']);
 new AnimalTable('table-3', 'table-3', bigFishData, ['size']);
-  
