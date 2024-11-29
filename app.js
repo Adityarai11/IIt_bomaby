@@ -195,7 +195,7 @@ class AnimalTable {
 
 // Data for tables
 const bigCatsData = [
-  { id: 101, name: 'Lion', size: 190, location: 'Africa', image: 'lion.jpg' },
+  { id: 101, name: 'Lion', size: 190, location: 'Africa', image:  'Lion.jpg' },
   { id: 102, name: 'Tiger', size: 220, location: 'Asia', image: 'tiger.jpg' },
   { id: 103, name: 'Leopard', size: 150, location: 'Asia', image: 'leopard.jpg' },
 ];
