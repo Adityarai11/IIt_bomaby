@@ -195,19 +195,19 @@ class AnimalTable {
 
 // Data for tables
 const bigCatsData = [
-  { id: 101, name: 'Lion', size: 190, location: 'Africa', image:  'Lion.jpg' },
-  { id: 102, name: 'Tiger', size: 220, location: 'Asia', image: 'tiger.jpg' },
-  { id: 103, name: 'Leopard', size: 150, location: 'Asia', image: 'leopard.jpg' },
+  { id: 101, name: 'Lion', size: 190, location: 'Africa', image: 'images/Lion.jpg' },
+  { id: 102, name: 'Tiger', size: 220, location: 'Asia', image: 'images/Tiger.jpg' },
+  { id: 103, name: 'Leopard', size: 150, location: 'Asia', image: 'images/Leopard.jpg' },
 ];
 
 const dogsData = [
-  { id: 201, name: 'Bulldog', size: 25, location: 'Europe', image: 'bulldog.jpg' },
-  { id: 202, name: 'Beagle', size: 20, location: 'North America', image: 'beagle.jpg' },
+  { id: 201, name: 'Bulldog', size: 25, location: 'Europe', image: 'images/Bulldog.jpg' },
+  { id: 202, name: 'Beagle', size: 20, location: 'North America', image: 'images/Beagle.jpg' },
 ];
 
 const bigFishData = [
-  { id: 301, name: 'Shark', size: 300, location: 'Ocean', image: 'shark.jpg' },
-  { id: 302, name: 'Whale', size: 200, location: 'Ocean', image: 'whale.jpg' },
+  { id: 301, name: 'Shark', size: 300, location: 'Ocean', image: 'images/Shark.jpg' },
+  { id: 302, name: 'Whale', size: 200, location: 'Ocean', image: 'images/Whale.jpg' },
 ];
 
 // Initialize tables with sorting fields
